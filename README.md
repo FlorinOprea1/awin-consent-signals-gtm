@@ -6,8 +6,8 @@ When configured correctly, the tag will ensure that the Awin cookies are handled
 The template makes use of [Google's JavaScript Sandbox APIs](https://developers.google.com/tag-platform/tag-manager/templates/api), using consent management functions such as [addConsentListener](https://developers.google.com/tag-platform/tag-manager/templates/api#addconsentlistener) and [isConsentGranted](https://developers.google.com/tag-platform/tag-manager/templates/api#isconsentgranted).
 
 NOTES: 
-\* a correct consent management implementation with this tag also requires changes to the Awin Conversion Tag (speak to Awin Tech Support if unsure).
-\* this tag only handles the client-side cookies. If you have a S2S implementation, then that should be handled separately.
+* a correct consent management implementation with this tag also requires changes to the Awin Conversion Tag (speak to Awin Tech Support if unsure).
+* this tag only handles the client-side cookies. If you have a S2S implementation, then that should be handled separately.
 
 # Configurations
 The template can be configured to make use of the Google Consent Mode parameters, or to use custom variable that stores the user cosent status.
