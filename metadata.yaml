@@ -1,10 +1,12 @@
 homepage: "https://www.awin.com"
 versions:
   # Latest version 
-  - sha: 9e1390f31bedc101a60ae8666e19f90019d80acd
-  changeNotes: minor change, update tool tips
+  - sha: bac9721ba64639816c370def46171750dd32fb04
+  changeNotes: Added LICENSE file.
 
   # Older versions
+  - sha: 9e1390f31bedc101a60ae8666e19f90019d80acd
+  changeNotes: minor change, update tool tips
   - sha: a2b672f034038bf04dc3da0b9d646abe6b6ac0ec
   changeNotes: Create metadata.yaml
     - sha: 5542a4c2fb9acbe968573e1c988cd882f72fc943
