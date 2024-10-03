@@ -6,6 +6,11 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Awin Consent Signals",
+  "categories": [
+    "AFFILIATE_MARKETING",
+    "ADVERTISING",
+    "ATTRIBUTION"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
