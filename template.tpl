@@ -6,6 +6,11 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Awin Consent Signals",
+  "categories": [
+    "AFFILIATE_MARKETING",
+    "ADVERTISING",
+    "ATTRIBUTION"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -82,7 +87,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "consentStatusInputVariable",
     "displayName": "Consent Status",
     "simpleValueType": true,
-    "help": "Use this field if you are not using Google Consent Mode. This field allows you to specify the user consent status manually. The allowed values \"true\"/\"false\" or \"1\"/\"0\", if you pass any other values, or leave the field blank, then the plugin will assume that \"true\" was specified.\n\nNOTE: If using this field, then additional setup needs to be done, please check documentation.",
+    "help": "Use this field if you are not using Google Consent Mode. This field allows you to specify the user consent status using a custom variable. The allowed values for this field are \"true\"/\"false\" or \"1\"/\"0\", if you pass any other values, or leave the field blank, then the plugin will assume that \"true\" was specified.",
     "enablingConditions": [
       {
         "paramName": "isUsingGoogleConsentModeParams",
