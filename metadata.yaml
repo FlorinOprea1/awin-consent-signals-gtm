@@ -1,6 +1,8 @@
 homepage: "https://www.awin.com"
 versions:
   # Latest version 
+    - sha: a2b672f034038bf04dc3da0b9d646abe6b6ac0ec
+  changeNotes: Create metadata.yaml
 
   # Older versions
     - sha: 5542a4c2fb9acbe968573e1c988cd882f72fc943
