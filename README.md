@@ -41,8 +41,10 @@ To ensure the correct firing sequence, use the following trigger types, in the s
 
 # Disclaimer
 
-If you're not making use of the consent parameters then we assume you've obtained cookie consent from the website visitor as per the ‘Advertiser Agreement’ for any traffic sent to us.
+If you're not making use of the consent parameters then Awin assumes you've obtained cookie consent from the website visitor as per the ‘Advertiser Agreement’ for any traffic sent to Awin.
 
-If you indicate that we don't have consent from the website visitor, we don't set a cookie on your landing page and we don’t read first-party or process third party cookies on the checkout page, with the only exception to when cookie are considered as strictly necessary as for cashback and loyalty activities.
+If you indicate that Awin doesn't have consent from the website visitor, Awin doesn't set a cookie on your landing page and doesn’t read first-party or process third party cookies on the checkout page, with the only exception to when cookie are considered as strictly necessary as for cashback and loyalty activities.
 
 If any value besides `true`/`false` and `1`/`0` are passed, they will be treated as if no value was specified.
+
+Consent for 3rd party MasterTag plugins should be handled separately. If you are using any 3rd party MasterTag plugins, then please reach out to the Technical Support team at Awin.
